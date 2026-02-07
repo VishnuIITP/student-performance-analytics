@@ -49,4 +49,26 @@ which summarizes the complete performance analysis.
 This project simulates a real-world data analysis workflow:
 CSV → Python Objects → Analysis → Report Generation
 
-It is suitable for showcasing problem-solving and analytical thinking in interviews.
+---
+
+## 📝 Sample Output
+
+STUDENT PERFORMANCE ANALYSIS REPORT
+
+Subject-wise Average Marks:
+Maths: 79.33
+Physics: 80.67
+Chemistry: 80.33
+English: 80.00
+
+Student-wise Average Marks:
+Neha: 92.50
+Rahul: 79.00
+Amit: 68.75
+
+Top Performer: Neha (92.50)
+
+Pass / Fail Summary:
+Neha: Pass = 4, Fail = 0
+Rahul: Pass = 4, Fail = 0
+Amit: Pass = 4, Fail = 0
