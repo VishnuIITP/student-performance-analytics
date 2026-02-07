@@ -1,0 +1,26 @@
+STUDENT PERFORMANCE ANALYSIS REPORT
+----------------------------------
+
+Subject-wise Average Marks:
+
+Maths: 72.60
+Physics: 71.60
+Chemistry: 69.40
+English: 77.00
+
+Student-wise Average Marks:
+
+Amit: 73.25
+Riya: 88.75
+Sohan: 47.50
+Neha: 92.50
+Rahul: 61.25
+
+Top Performer: Neha (92.5)
+
+Pass / Fail Summary:
+Amit: Pass = 4, Fail = 0
+Riya: Pass = 4, Fail = 0
+Sohan: Pass = 4, Fail = 0
+Neha: Pass = 4, Fail = 0
+Rahul: Pass = 4, Fail = 0
