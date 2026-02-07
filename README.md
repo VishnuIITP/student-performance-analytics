@@ -72,3 +72,6 @@ Pass / Fail Summary:
 Neha: Pass = 4, Fail = 0
 Rahul: Pass = 4, Fail = 0
 Amit: Pass = 4, Fail = 0
+
+![Project Output](output_screenshot.png)
+
